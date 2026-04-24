@@ -17,6 +17,13 @@ It showcases my hands-on experience in AI evaluation, prompt engineering, and da
 - AI Safety & Reliability Analysis
 
 ---
+## Additional Components
+
+- Data Annotation Dataset & Guidelines (Safety, Accuracy, Hallucination Detection)  
+- Ranking & Preference Evaluation (Side-by-Side Model Comparison)  
+- Multilingual Testing (Arabic & English)  
+- Saudi Dialect & Transcription Samples (Speech-to-Text & Localization)  
+- Evaluation Scoring Sheet (Excel/CSV for structured QA)  
 
 ## Project Structure
 
