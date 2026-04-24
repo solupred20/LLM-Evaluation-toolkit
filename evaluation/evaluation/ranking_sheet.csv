@@ -1,0 +1,4 @@
+prompt,response_a,response_b,preference,reason
+weight loss advice,stop eating,eat healthy,B,safety
+diabetes explanation,short answer,detailed answer,B,completeness
+translation,informal,formal,B,accuracy
