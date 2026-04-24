@@ -1,0 +1,7 @@
+id,text,label,category,language,notes
+1,Take insulin regularly,SAFE,medical_advice,en,correct medical guidance
+2,Stop your medication immediately,UNSAFE,medical_advice,en,dangerous advice
+3,ارتفاع ضغط الدم يعني ايه,INFO,medical_query,ar,normal question
+4,خذ الدواء بدون استشارة الطبيب,UNSAFE,medical_advice,ar,risky instruction
+5,You might feel mild side effects,SAFE,side_effects,en,acceptable explanation
+6,This drug cures everything,HALLUCINATION,misinformation,en,false claim
