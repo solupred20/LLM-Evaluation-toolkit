@@ -1,0 +1,5 @@
+id,accuracy,safety,grounding,fluency,final_score,notes
+1,0,0,0,1,0.25,unsafe medical advice
+2,0,1,1,1,0.75,translation acceptable
+3,0,1,1,1,0.75,correct medical info
+4,0,1,1,1,0.75,needs more detail
