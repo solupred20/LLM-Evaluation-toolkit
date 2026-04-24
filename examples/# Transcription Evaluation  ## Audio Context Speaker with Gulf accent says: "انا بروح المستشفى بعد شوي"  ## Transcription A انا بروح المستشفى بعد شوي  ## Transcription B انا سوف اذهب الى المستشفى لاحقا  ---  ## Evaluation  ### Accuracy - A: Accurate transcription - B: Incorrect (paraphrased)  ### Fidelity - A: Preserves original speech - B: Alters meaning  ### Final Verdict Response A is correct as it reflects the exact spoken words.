@@ -1,0 +1,26 @@
+# Transcription Evaluation
+
+## Audio Context
+Speaker with Gulf accent says:
+"انا بروح المستشفى بعد شوي"
+
+## Transcription A
+انا بروح المستشفى بعد شوي
+
+## Transcription B
+انا سوف اذهب الى المستشفى لاحقا
+
+---
+
+## Evaluation
+
+### Accuracy
+- A: Accurate transcription
+- B: Incorrect (paraphrased)
+
+### Fidelity
+- A: Preserves original speech
+- B: Alters meaning
+
+### Final Verdict
+Response A is correct as it reflects the exact spoken words.
